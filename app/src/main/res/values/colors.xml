@@ -7,6 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="BGColour">#F4D1D1</color>
+    <color name="BGColour">#cad2c5</color>
+    <color name="selectedDate">#455A64</color>
+    <color name="textColour">#354f52</color>
+    <color name="BGAgeBanner">#84a98c</color>
+    <color name="BgBtnColor">#2f3e46</color>
+    <color name="appStatus">#52796f</color>
 
 </resources>

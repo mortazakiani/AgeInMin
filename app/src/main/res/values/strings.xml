@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">AgeInMinutes</string>
     <string name="banner">Calculate Your Age</string>
+    <string name="Age">AGE</string>
+    <string name="IN_MINUTES">In MINUTES</string>
+    <string name="Btn_Calculate">Calculate</string>
+    <string name="date">23/11/1374</string>
+    <string name="selectDate">Select Date</string>
+    <string name="DateInMin">14000000</string>
 
 </resources>
